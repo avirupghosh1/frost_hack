@@ -1,4 +1,4 @@
-image: room2.pgm
+image: /home/avirupghosh/ros2_ws/src/icp_localization/icp_localization/map.pgm
 resolution: 0.050000
 origin: [-100.000000, -100.000000, 0.000000]
 negate: 0
